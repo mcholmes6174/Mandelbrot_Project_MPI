@@ -1,7 +1,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Mandelbrot Set Plotting Routine
 ! Written by Matthew Holmes
-! 3/20/2021
+! 6/15/2021
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 program Mandelbrot_Driver
   use mpi
