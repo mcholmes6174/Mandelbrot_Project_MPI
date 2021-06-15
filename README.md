@@ -1,15 +1,18 @@
 # Mandelbrot_Project_MPI
-This code creates images of the Mandelbrot set. The source files are split into two directories as follows:
-
-Mandelbrot_codes_MPI
-  |
+This code creates images of the Mandelbrot set. The source files are split into two subdirectories as follows:
+  
   -> Mandelcodes
-      |
+  
+      
       -> 8 Fortran scripts
+      
       -> 1 Makefile
+      
       -> 1 parameter text file
+      
   -> PyViz
-      |
+  
+      
       -> 1 Python script
     
 The computation and data-generation is done using Fortran, while the image is created using Python.
