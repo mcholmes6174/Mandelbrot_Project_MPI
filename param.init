@@ -1,7 +1,0 @@
-x_min            -2.50   [real]
-x_max             1.00   [real]
-y_min            -1.20   [real]
-y_max             1.20   [real]
-pixel_width       240   [int]
-pixel_height      350   [int]
-max_esc_time      1000  [int]
