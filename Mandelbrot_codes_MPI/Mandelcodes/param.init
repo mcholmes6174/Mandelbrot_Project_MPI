@@ -1,0 +1,7 @@
+x_min           -2.25      [real]
+x_max            1.00      [real]
+y_min           -1.21875   [real]  # 4:3 width to height ratio
+y_max            1.21875   [real]
+pixel_width      1600      [int] 
+pixel_height     1200      [int]
+max_esc_time     2000      [int]
